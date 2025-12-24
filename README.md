@@ -1,12 +1,46 @@
-# Abdullah Naeem — Portfolio (simple React)
+# Personal Portfolio Website
 
-This is a simple React portfolio with pages: Home, Projects, Skills, Resume, Contact.
-Resume content used from the uploaded CV. :contentReference[oaicite:1]{index=1}
+My personal portfolio website showcases my projects, resume, skills, certifications, and contact information.  
+It is designed to present my profile as a **Data Scientist & Machine Learning Engineer** in a clean, modern, and responsive layout.
 
-## Run locally
-1. `npm install`
-2. `npm run start` (or `npm run dev` if your setup differs)
+---
 
-## Notes
-- `public/resume.pdf` is your CV displayed on the Resume page.
-- Projects and skills are in `src/data/` for easy editing.
+## Built With
+
+This project was built using the following technologies:
+
+- **React.js**
+- **JavaScript (ES6)**
+- **HTML5**
+- **CSS3**
+- **VS Code**
+- **Git & GitHub**
+- **Vercel**
+
+---
+
+## Features
+
+- 📖 **Multi-Page Layout** (Home, Projects, Skills, Resume, Contact)
+- 🎨 **Custom Styling** inspired by modern developer portfolios
+- 📱 **Fully Responsive** on desktop, tablet, and mobile devices
+- 🧠 **Skills & Certifications Section** with verification links
+- 📄 **Embedded Resume Viewer**
+- 🔗 **Social Media Integration** (GitHub, LinkedIn, Email)
+- ✨ **Clean and Beginner-Friendly Code Structure**
+
+---
+
+## Getting Started
+
+Clone down this repository.  
+You will need **Node.js** and **Git** installed globally on your machine.
+
+---
+
+## 🛠 Installation and Setup Instructions
+
+### Installation
+
+```bash
+npm install
