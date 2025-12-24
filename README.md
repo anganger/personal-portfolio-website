@@ -9,8 +9,7 @@ This portfolio is designed to present my work as a **Data Scientist and Machine 
 ## 🚀 Live Demo
 
 🔗 **Deployed on Vercel:**  
-(Add your Vercel live link here after deployment)
-
+personal-portfolio-website-jptsarbt7.vercel.app
 ---
 
 ## 🛠 Built With
@@ -72,3 +71,13 @@ src/
 ├── App.jsx            # Main app component and routing
 ├── index.js           # React DOM entry point
 └── index.css          # Global styles and theme variables
+Getting Started
+Clone down this repository. You will need node.js and git installed globally on your machine.
+
+## 🛠 Installation and Setup Instructions
+-Installation: npm install
+
+In the project directory, you can run: npm start
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
