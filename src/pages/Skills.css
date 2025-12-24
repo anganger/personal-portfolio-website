@@ -1,0 +1,64 @@
+.skills-list{ margin-top:12px; }
+.muted{ color:var(--muted); }
+
+.page-title{
+  margin-bottom:30px;
+}
+
+.cert-section{
+  display:flex;
+  flex-direction:column;
+  gap:30px;
+}
+
+/* Certificate Card */
+.cert-card{
+  display:flex;
+  gap:30px;
+  align-items:flex-start;
+  padding:24px;
+  border-radius:16px;
+  background: linear-gradient(180deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01));
+  flex-wrap:wrap;
+}
+
+.cert-text{
+  flex:1;
+  min-width:280px;
+}
+
+.cert-text h2{
+  margin-bottom:10px;
+}
+
+.cert-text p{
+  color:var(--muted);
+  line-height:1.6;
+  margin-bottom:10px;
+}
+
+.cert-meta{
+  font-size:0.9rem;
+  opacity:0.85;
+}
+
+/* Verify Link */
+.verify-link{
+  display:inline-block;
+  margin-top:8px;
+  color:var(--accent1);
+  text-decoration:none;
+  font-weight:500;
+}
+
+.verify-link:hover{
+  text-decoration:underline;
+}
+
+/* Certificate Image */
+.cert-card img{
+  width:300px;
+  max-width:100%;
+  border-radius:12px;
+  border:1px solid rgba(255,255,255,0.1);
+}
