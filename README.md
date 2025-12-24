@@ -52,7 +52,7 @@ Follow these steps to set up the project locally.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+   git clone [https://github.com/anganger/personal-portfolio-website.git]
 Install NPM packages:
 
 Bash
@@ -65,16 +65,16 @@ Bash
 npm start
 Open http://localhost:3000 to view it in your browser.
 
-📂 Project Structure
-Plaintext
+## 📂 Project Structure
 
+```bash
 src/
-├── assets/         # Images, certificates, profile picture, resume PDF
-├── components/     # Reusable UI components (Navbar, Footer, Cards)
-├── data/           # Static data files (projects, skills list)
-├── pages/          # Page-level components (Home, Projects, Skills, Resume)
-├── App.jsx         # Main app component and routing
-├── index.css       # Global styles and theme variables
-└── index.js        # React DOM entry point
-✉️ Contact
-Feel free to reach out if you have any questions or want to collaborate!
+│
+├── components/        # Reusable UI components (Navbar, Footer, Cards, etc.)
+├── pages/             # Page-level components (Home, Projects, Skills, Resume, Contact)
+├── data/              # Static data files (projects, skills)
+├── assets/            # Images, certificates, profile picture, resume PDF
+│
+├── App.jsx            # Main app component and routing
+├── index.js           # React DOM entry point
+└── index.css          # Global styles and theme variables
