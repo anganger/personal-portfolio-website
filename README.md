@@ -11,9 +11,9 @@ My key areas of interest include **Predictive Modeling, Artificial Intelligence,
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Live website
 
-🔗 **Deployed on Vercel:** [View Live Site](https://personal-portfolio-website-jptsarbt7.vercel.app)
+🔗 **Deployed on Vercel:** [View Live Site](https://personal-portfolio-website-two-sigma.vercel.app/)
 
 ---
 
