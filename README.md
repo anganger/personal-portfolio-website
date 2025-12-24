@@ -53,17 +53,18 @@ Follow these steps to set up the project locally.
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/anganger/personal-portfolio-website.git]
-Install NPM packages:
+   ```
+### Install NPM packages:
 
-Bash
+```bash
+   npm install
+```
+### Run the application:
 
-npm install
-Run the application:
-
-Bash
-
-npm start
-Open http://localhost:3000 to view it in your browser.
+```Bash
+   npm start
+```
+it would open http://localhost:3000 to view it in your browser.
 
 ## 📂 Project Structure
 
@@ -78,3 +79,4 @@ src/
 ├── App.jsx            # Main app component and routing
 ├── index.js           # React DOM entry point
 └── index.css          # Global styles and theme variables
+```
