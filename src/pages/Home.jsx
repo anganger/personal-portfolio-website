@@ -32,9 +32,9 @@ export default function Home() {
           </p>
 
           <p>
-            I’m proficient in <strong>Python, SQL, R, Pandas/NumPy, and React.js</strong> — and I enjoy
-            the synergy of developing powerful back-end models while ensuring the results are
-            accessible through intuitive interfaces.
+            I’m proficient in <strong>Python, SQL, R, Pandas/NumPy, and React.js</strong> — and I 
+            enjoy integrating powerful back-end models with intuitive interfaces to ensure complex 
+            data is both accessible and actionable.
           </p>
 
           <p>
