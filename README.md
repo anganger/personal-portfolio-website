@@ -56,8 +56,19 @@ This project was developed using the following technologies and tools:
 - 🧩 **Component-Based Architecture**
   - Reusable and easy-to-maintain components
 
----
 
+---
+##Getting Started
+Clone down this repository. You will need node.js and git installed globally on your machine.
+---
+## 🛠 Installation and Setup Instructions
+-Installation: npm install
+
+In the project directory, you can run: npm start
+
+Runs the app in the development mode.
+Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
+---
 ## 📂 Project Structure
 
 ```bash
@@ -71,13 +82,3 @@ src/
 ├── App.jsx            # Main app component and routing
 ├── index.js           # React DOM entry point
 └── index.css          # Global styles and theme variables
-Getting Started
-Clone down this repository. You will need node.js and git installed globally on your machine.
-
-## 🛠 Installation and Setup Instructions
--Installation: npm install
-
-In the project directory, you can run: npm start
-
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
