@@ -2,83 +2,79 @@
 
 A modern, responsive personal portfolio website built with React.js to showcase my professional profile, projects, technical skills, certifications, and resume.
 
-This portfolio is designed to present my work as a **Data Scientist and Machine Learning Engineer**, focusing on clean UI, modular code structure, and ease of customization.
+## 👤 About Me
+I’m a Data Scientist and Machine Learning Engineer who thrives on turning raw data into actionable insights and intelligent systems. Throughout my journey, I’ve refined my ability to bridge the gap between complex datasets and real-world solutions, focusing on building models that are both accurate and scalable.
+
+I’m proficient in **Python, SQL, R, Pandas, NumPy, and React.js** — and I enjoy the **integration** of developing powerful back-end models while ensuring the results are accessible through intuitive interfaces.
+
+My key areas of interest include **Predictive Modeling, Artificial Intelligence,** and exploring the intersection of **Machine Learning and Data Visualization** to tell a compelling story with data.
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 **Deployed on Vercel:**  
-personal-portfolio-website-jptsarbt7.vercel.app
+🔗 **Deployed on Vercel:** [View Live Site](https://personal-portfolio-website-jptsarbt7.vercel.app)
+
 ---
 
 ## 🛠 Built With
 
-This project was developed using the following technologies and tools:
-
-- **React.js** – Frontend library for building UI components
-- **JavaScript (ES6+)**
-- **HTML5**
-- **CSS3**
+- **React.js** – Frontend library for UI components
+- **Python & SQL** – Data processing and modeling
+- **Pandas & NumPy** – Data manipulation
+- **CSS3** – Custom styling and layout
 - **Node.js** – Development environment
 - **Git & GitHub** – Version control
-- **VS Code** – Code editor
 - **Vercel** – Deployment platform
 
 ---
 
 ## ✨ Features
 
-- 📖 **Multi-Page Layout**
-  - Home
-  - Projects
-  - Skills & Certifications
-  - Resume
-  - Contact
-
-- 🎨 **Custom Styled UI**
-  - Inspired by modern developer portfolios
-  - Clean dark theme with accent colors
-
-- 📱 **Fully Responsive Design**
-  - Optimized for desktop, tablet, and mobile devices
-
-- 🧠 **Skills & Certifications Section**
-  - Skill visualization
-  - Certificate images with verification links
-
-- 📄 **Embedded Resume Viewer**
-  - Resume PDF displayed directly in the browser
-
-- 🔗 **Social Media Integration**
-  - GitHub, LinkedIn, Email with interactive icons
-
-- 🧩 **Component-Based Architecture**
-  - Reusable and easy-to-maintain components
-
+* 📖 **Multi-Page Layout** – Home, Projects, Skills & Certifications, Resume, Contact.
+* 🎨 **Custom Styled UI** – Clean dark theme with modern accent colors.
+* 📱 **Fully Responsive** – Optimized for desktop, tablet, and mobile devices.
+* 🧠 **Data-Focused Skills** – Visualization of technical expertise and verified certification links.
+* 📄 **Resume Viewer** – PDF resume displayed directly in the browser.
+* 🧩 **Modular Code** – Reusable component-based architecture for easy maintenance.
 
 ---
-##Getting Started
-Clone down this repository. You will need node.js and git installed globally on your machine.
----
-## 🛠 Installation and Setup Instructions
--Installation: npm install
 
-In the project directory, you can run: npm start
+## 🏗 Getting Started
 
-Runs the app in the development mode.
-Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
----
-## 📂 Project Structure
+Follow these steps to set up the project locally.
 
-```bash
+### Prerequisites
+* **Node.js** (Latest LTS version)
+* **Git** installed on your machine
+
+### Installation & Setup
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
+Install NPM packages:
+
+Bash
+
+npm install
+Run the application:
+
+Bash
+
+npm start
+Open http://localhost:3000 to view it in your browser.
+
+📂 Project Structure
+Plaintext
+
 src/
-│
-├── components/        # Reusable UI components (Navbar, Footer, Cards, etc.)
-├── pages/             # Page-level components (Home, Projects, Skills, Resume, Contact)
-├── data/              # Static data files (projects, skills)
-├── assets/            # Images, certificates, profile picture, resume PDF
-│
-├── App.jsx            # Main app component and routing
-├── index.js           # React DOM entry point
-└── index.css          # Global styles and theme variables
+├── assets/         # Images, certificates, profile picture, resume PDF
+├── components/     # Reusable UI components (Navbar, Footer, Cards)
+├── data/           # Static data files (projects, skills list)
+├── pages/          # Page-level components (Home, Projects, Skills, Resume)
+├── App.jsx         # Main app component and routing
+├── index.css       # Global styles and theme variables
+└── index.js        # React DOM entry point
+✉️ Contact
+Feel free to reach out if you have any questions or want to collaborate!
