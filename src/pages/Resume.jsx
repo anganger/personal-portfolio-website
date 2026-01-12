@@ -1,6 +1,6 @@
 import { useEffect } from "react";
 import "./Resume.css";
-import resumePDF from "../assets/resume.pdf";
+import resumePDF from "../assets/resume1.pdf";
 
 export default function Resume() {
   useEffect(() => {
